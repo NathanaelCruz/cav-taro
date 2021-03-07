@@ -24,9 +24,9 @@
   Antes de iniciar este modo, tenha o NPM instalado. Após isso basta seguir os passos.
   1. Faça um clone deste repositório.
   2. de um `npm i`
-  3. Após isso pode usar o `npm run dev`para rodar no (localhost:3000)[http://localhost:3000]
+  3. Após isso pode usar o `npm run dev`para rodar no [localhost:3000](http://localhost:3000)
 
 ## Modo Produção
-  Nesse caso já esta disponvel o projeto buildado em (cav-taro)[https://cav-taro.vercel.app/], podendo utilizar conforme o proposto.
+  Nesse caso já esta disponvel o projeto buildado em [cav-taro](https://cav-taro.vercel.app/), podendo utilizar conforme o proposto.
 
 Desenvolvido em 2021.
