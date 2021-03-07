@@ -1,13 +1,14 @@
-import Head from 'next/head'
+import Card from "../components/Card";
+import { HomeTitle, SubTitle } from '../styles/pages/home'
+import Stars from '../components/Stars'
 
 export default function Home() {
   return (
-    <div>
-      <Head>
-        <title>CAV TARÔ | Tire sua sorte como cavaleiro sagrado</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-
-    </div>
+    <>
+      <HomeTitle className="l-home__title">CAV TARÔ</HomeTitle>
+      <SubTitle className="c-subtitle">Veja qual sua armadura destinada!</SubTitle>
+      <Card></Card>
+      <Stars></Stars>
+    </>
   )
 }

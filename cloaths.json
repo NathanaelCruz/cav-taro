@@ -1,0 +1,43 @@
+[{
+        "name": "Abel",
+        "cloth": "Gêmeos",
+        "type": "Ouro",
+        "image": "https://raw.githubusercontent.com/NathanaelCruz/images_resource_projects/master/cav-taro/gemeos.png"
+    },
+    {
+        "name": "Aeson",
+        "cloth": "Taça",
+        "type": "Prata",
+        "image": "https://raw.githubusercontent.com/NathanaelCruz/images_resource_projects/master/cav-taro/taca.png"
+    },
+    {
+        "name": "Ikki",
+        "cloth": "Fênix",
+        "type": "Bronze",
+        "image": "https://raw.githubusercontent.com/NathanaelCruz/images_resource_projects/master/cav-taro/fenix.jpg"
+    },
+    {
+        "name": "Aiolia",
+        "cloth": "Leão",
+        "type": "Ouro",
+        "image": "https://raw.githubusercontent.com/NathanaelCruz/images_resource_projects/master/cav-taro/leao.png"
+    },
+    {
+        "name": "Aiolos",
+        "cloth": "Sagitário",
+        "type": "Ouro",
+        "image": "https://raw.githubusercontent.com/NathanaelCruz/images_resource_projects/master/cav-taro/sagitario.png"
+    },
+    {
+        "name": "Hyoga",
+        "cloth": "Cisne",
+        "type": "Bronze",
+        "image": "https://raw.githubusercontent.com/NathanaelCruz/images_resource_projects/master/cav-taro/cisne.jpg"
+    },
+    {
+        "name": "Camus",
+        "cloth": "Áquario",
+        "type": "Ouro",
+        "image": "https://raw.githubusercontent.com/NathanaelCruz/images_resource_projects/master/cav-taro/aquario.png"
+    }
+]
