@@ -2,7 +2,7 @@
 
 <section data-markdown>
   
-  <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/cav-tao01.png" width="240"/>
+  ![Screen 01](https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/cav-tao01.png)
   <img src="https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/cav-tao02.png" width="240"/>
   
 </section>
