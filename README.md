@@ -1,34 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# CAV TARÔ
 
-## Getting Started
+<section data-markdown>
+  
+  ![Screen 01](https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/cav-tao01.png)
+  ![Screen 01](https://github.com/NathanaelCruz/images_resource_projects/blob/master/Images/cav-tao02.png)
+  
+</section>
 
-First, run the development server:
+## MOTIVAÇÃO
+  Esse pequeno projeto pessoal foi feito com a proposta de desenvolver algo voltado a Cavaleiros do Zodiaco e aplicando conceitos de NEXTJS juntamente com animaçes, para gerar algo interessante para passar o tempo. Com essa diretiva foi desenvolvido o CAV TARÔ.
+  Em suma é um pequeno sistema de sorteio para mostrar sua sorte em relação a armadura do cavaleiro, apresentand sua armadura do dia.
+  
+## TÉCNOLOGIAS UTILIZADAS
+  1. Typescript
+  2. NEXTJS
+  3. Styled components
+  4. Deploy: Vercel
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## COMO USAR
+  Pode ser utilizado de duas formas.
+  
+### Modo de Desenvolvimento
+  Antes de iniciar este modo, tenha o NPM instalado. Após isso basta seguir os passos.
+  1. Faça um clone deste repositório.
+  2. de um `npm i`
+  3. Após isso pode usar o `npm run dev`para rodar no (localhost:3000)[http://localhost:3000]
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Modo Produção
+  Nesse caso já esta disponvel o projeto buildado em (cav-taro)[https://cav-taro.vercel.app/], podendo utilizar conforme o proposto.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Desenvolvido em 2021.
